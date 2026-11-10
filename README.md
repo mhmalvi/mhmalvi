@@ -4,7 +4,7 @@
 
 Founding AI Engineer at [Aethon Automation Solutions](https://aethonautomation.com). I've worked in tech for 15+ years. Today my work is hands-on engineering: routing LLM calls between local and cloud models, agents with human approval gates, unattended browser automation over the Chrome DevTools Protocol, Postgres job queues, and a self-hosted server that recovers on its own after a power cut. Based in Dhaka, Bangladesh. Open to remote roles.
 
-📫 info@aethonautomation.com · [LinkedIn](https://www.linkedin.com/in/mdhmalvi) · [muhammadhmalvi.com](https://muhammadhmalvi.com)
+📫 info@aethonautomation.com · [LinkedIn](https://www.linkedin.com/in/hmalvi) · [muhammadhmalvi.com](https://muhammadhmalvi.com)
 
 ---
 
